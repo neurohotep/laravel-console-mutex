@@ -1,5 +1,5 @@
 {
-    "name": "illuminated/console-mutex",
+    "name": "neurohotep/console-mutex",
     "description": "Mutex for Laravel console commands.",
     "keywords": ["laravel", "console", "command", "mutex", "locker", "overlapping"],
     "license": "MIT",
